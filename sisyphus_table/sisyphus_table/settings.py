@@ -50,7 +50,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'sisyphus_table.sisyphus_table.urls'
+ROOT_URLCONF = 'sisyphus_table.urls'
 
 TEMPLATES = [
     {
@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'sisyphus_table.sisyphus_table.wsgi.application'
+WSGI_APPLICATION = 'sisyphus_table.wsgi.application'
 
 
 # Database
