@@ -1,0 +1,1 @@
+-e git://github.com/JakeLSaunders94/Stepper_motor_controller.git@Add_views_and_basic_controller#egg=motor-controller
